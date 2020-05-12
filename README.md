@@ -1,12 +1,12 @@
 # OAuth 2.0 framework Authorization Process (May 2020)
 
-#H M P K Ranjan Kumara Herath
+# H M P K Ranjan Kumara Herath
 
-#Faculty of Computing 
+# Faculty of Computing 
 
-#Sri Lanka Institute of information Technology
+# Sri Lanka Institute of information Technology
 
-#Malabe, Sri Lanka
+# Malabe, Sri Lanka
 
-#MS20911058@my.sliit.lk
+# MS20911058@my.sliit.lk
 
