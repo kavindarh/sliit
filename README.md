@@ -1,3 +1,2 @@
 # My HTML source testing 
-The app generation is based on https://angular.io/guide/setup-local.
-
+For my presentation https://www.youtube.com/watch?v=4DsVwMLrtSc&t=1s
